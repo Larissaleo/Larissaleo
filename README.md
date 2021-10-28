@@ -2,9 +2,11 @@
 
 <BR>
   
->Estudante de análise e desenvolvimento de sistemas - FATEC-SP
->atualmente tenho me dedicado a me tornar um dev fullstack, começando pelo front end.
-<BR>
+```
+  Estudante de análise e desenvolvimento de sistemas - FATEC-SP
+  atualmente tenho me dedicado a me tornar uma desenvolvedora fullstack, começando pelo front end.
+ ```
+
   
 ## Tecnologias que estou estudando atualmente 💻
 * HTML
