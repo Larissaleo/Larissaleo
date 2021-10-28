@@ -12,6 +12,7 @@
 * HTML
 * CSS
 * JAVASCRIPT
+* PYTHON
   
   <div align="center">
   <a href="https://github.com/Larissaleo">
