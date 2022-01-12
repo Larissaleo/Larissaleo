@@ -9,9 +9,8 @@
 
   
 ## Tecnologias que estou estudando atualmente 💻
-* HTML
-* CSS
-* JAVASCRIPT
+* .NET
+* C#
 * PYTHON
   
   <div align="center">
